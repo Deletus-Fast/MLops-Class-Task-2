@@ -1,0 +1,7 @@
+Flask==2.0.3
+pandas==1.4.2
+scikit-learn==1.0.2
+joblib==1.1.0
+numpy==1.22.3
+cors
+Werkzeug==2.2.2
